@@ -1,4 +1,4 @@
-const oldReddit = "https://old.reddit.com";
+const oldReddit = "https://i.reddit.com";
 const excludedPaths = [
   "/gallery",
   "/poll",
@@ -10,7 +10,7 @@ chrome.webRequest.onBeforeRequest.addListener(
   function(details) {
     const url = new URL(details.url);
     
-    if (url.hostname === "old.reddit.com") return;
+    if (url.hostname === "i.reddit.com") return;
     
     for (const path of excludedPaths) {
       if (url.pathname.indexOf(path) === 0) return;
