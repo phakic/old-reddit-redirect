@@ -1,4 +1,4 @@
-#test fork for mobile i.reddit / .compact reddit, made from old reddit redirect repository
+# test fork for mobile i.reddit / .compact reddit, made from old reddit redirect repository
 
 -‐----
 
