@@ -1,4 +1,7 @@
-# Old Reddit Redirect
+#test fork for mobile i.reddit / .compact reddit, made from old reddit redirect repository
+
+-‐----
+
 
 [Chrome extension](https://chrome.google.com/webstore/detail/old-reddit-redirect/dneaehbmnbhcippjikoajpoabadpodje)
 
